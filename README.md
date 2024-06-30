@@ -3,41 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Kavindu-Madhubhashana&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Kavindu-Madhubhashana?label=Follow&style=social)
 
-## 📫 Contact Me
-- Email: [iamkavindu.official@gmail.com](mailto:iamkavindu.official@gmail.com)
-- LinkedIn: [Kavindu Madhubhashana](https://www.linkedin.com/in/kavindu-madhubhashana/)
-- GitHub: [Kavindu-Madhubhashana](https://github.com/Kavindu-Madhubhashana)
-- Facebook: [Kavindu Madhubhashana](http://www.facebook.com/kavindu.madhubhashana.71)
 
 ## 🚀 About Me
 An enthusiastic, self-motivated, and hardworking undergraduate looking for a software engineering internship. I aim to add strategic value to an organization by working with passion, dedication, and courage in a dynamic environment to achieve corporate objectives and become a competent and dynamic professional.
-
-## 🎓 Education
-- **B.Sc. Management and Information Technology (2020 - Present)**
-  - Department of Industrial Management, University of Kelaniya, Sri Lanka
-- **G.C.E Advanced Level Examination (2018)**
-  - Dharmapala Maha Vidyalaya
-  - Passed with 1B, 1S, 1C
-
-## 💼 Work Experience
-- **Trainee | People’s Bank, Haputale (2019)**
-
-## 💻 Projects
-- **Hospital Management System (2020)**
-  - Technologies: Java, MySQL, NetBeans IDE
-  - Description: A system to manage hospital details including patients, doctors, nurses, prescriptions, wards, and drug inventory.
-
-- **Management System for Car Renting Service (2021)**
-  - Technologies: C#, MySQL, Visual Studio
-  - Description: A system for handling customer and vehicle details for a car rental service.
-
-- **Web-Based Booking System for Car Rental Service (2022)**
-  - Technologies: HTML, JavaScript, CSS, PHP, MySQL
-  - Description: An online booking system for car rentals, handling vehicle details and user profiles.
-
-- **Full Stack Doctor Appointment Booking Web Application (2023)**
-  - Technologies: React, NodeJS, MongoDB
-  - Description: A secure, modern web application for booking doctor appointments with real-time scheduling and user profile management.
 
 ## 🛠️ Technical Skills
 
@@ -68,6 +36,36 @@ An enthusiastic, self-motivated, and hardworking undergraduate looking for a sof
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 
+## 🎓 Education
+- **B.Sc. Management and Information Technology (2020 - Present)**
+  - Department of Industrial Management, University of Kelaniya, Sri Lanka
+- **G.C.E Advanced Level Examination (2018)**
+  - Dharmapala Maha Vidyalaya
+  - Passed with 1B, 1S, 1C
+
+
+## 💻 Projects
+- **Hospital Management System (2020)**
+  - Technologies: Java, MySQL, NetBeans IDE
+  - Description: A system to manage hospital details including patients, doctors, nurses, prescriptions, wards, and drug inventory.
+
+- **Management System for Car Renting Service (2021)**
+  - Technologies: C#, MySQL, Visual Studio
+  - Description: A system for handling customer and vehicle details for a car rental service.
+
+- **Web-Based Booking System for Car Rental Service (2022)**
+  - Technologies: HTML, JavaScript, CSS, PHP, MySQL
+  - Description: An online booking system for car rentals, handling vehicle details and user profiles.
+
+- **Full Stack Doctor Appointment Booking Web Application (2023)**
+  - Technologies: React, NodeJS, MongoDB
+  - Description: A secure, modern web application for booking doctor appointments with real-time scheduling and user profile management.
+    
+
+## 💼 Work Experience
+- **Trainee | People’s Bank, Haputale (2019)**
+
+
 ## 🌟 Soft Skills
 - Innovative
 - Teamwork
@@ -86,3 +84,10 @@ An enthusiastic, self-motivated, and hardworking undergraduate looking for a sof
 - Traveling
 - Movies
 - E-Sports
+
+
+## 📫 Contact Me
+- Email: [iamkavindu.official@gmail.com](mailto:iamkavindu.official@gmail.com)
+- LinkedIn: [Kavindu Madhubhashana](https://www.linkedin.com/in/kavindu-madhubhashana/)
+- GitHub: [Kavindu-Madhubhashana](https://github.com/Kavindu-Madhubhashana)
+- Facebook: [Kavindu Madhubhashana](http://www.facebook.com/kavindu.madhubhashana.71)
