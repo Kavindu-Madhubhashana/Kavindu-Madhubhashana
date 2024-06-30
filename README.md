@@ -49,7 +49,7 @@ Feel free to connect with me and check out my projects below!
 ## 💻 Projects
 - **Hospital Management System (2020)**
   - Technologies: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white), ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
-  - Description:A hospital management system using JAVA, MySQL and Net Beans IDE for medium scale hospital to handle all details of patients, details of doctors, details of nurses, prescription data, ward details and drugs inventory data.
+  - Description: A hospital management system using JAVA, MySQL and Net Beans IDE for medium scale hospital to handle all details of patients, details of doctors, details of nurses, prescription data, ward details and drugs inventory data.
     
 - **Management System for Car Renting Service (2021)**
   - Technologies: ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white), ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
@@ -61,7 +61,7 @@ Feel free to connect with me and check out my projects below!
 
 - **Full Stack Doctor Appointment Booking Web Application (2023)**
   - Technologies: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black), ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  - Description:A full stack doctor appointment booking web application with modern UI and advanced security features for an Ayurvedic clinic using React, NodeJS, and MongoDB. The system features secure user authentication, real-time appointment scheduling, user profile management, dashboards, reports and a responsive design.
+  - Description: A full stack doctor appointment booking web application with modern UI and advanced security features for an Ayurvedic clinic using React, NodeJS, and MongoDB. The system features secure user authentication, real-time appointment scheduling, user profile management, dashboards, reports and a responsive design.
 
 ## 💼 Work Experience
 - **Trainee | People’s Bank, Haputale (2019)**
