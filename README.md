@@ -5,7 +5,15 @@
 
 
 ## 🚀 About Me
-An enthusiastic, self-motivated, and hardworking undergraduate looking for a software engineering internship. I aim to add strategic value to an organization by working with passion, dedication, and courage in a dynamic environment to achieve corporate objectives and become a competent and dynamic professional.
+
+Hello! I'm Kavindu Madhubhashana, a passionate software developer with a strong foundation in both management and information technology. Currently, I'm pursuing a Bachelor of Science Honours in Management and Information Technology at the University of Kelaniya, Sri Lanka.
+
+I have a diverse skill set that spans multiple programming languages, web technologies, databases, and development environments. My projects demonstrate my ability to build robust and scalable software solutions, ranging from hospital management systems to full-stack web applications.
+
+I'm always eager to learn new technologies and improve my skills. I thrive in collaborative environments and enjoy working on innovative projects that solve real-world problems. When I'm not coding, you can find me exploring new tech trends, contributing to open-source projects, or sharing my knowledge with the developer community.
+
+Feel free to connect with me and check out my projects below!
+
 
 ## 🛠️ Technical Skills
 
