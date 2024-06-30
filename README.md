@@ -6,11 +6,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm Kavindu Madhubhashana, a passionate software developer with a strong foundation in both management and information technology. Currently, I'm pursuing a Bachelor of Science Honours in Management and Information Technology at the University of Kelaniya, Sri Lanka.
-
-I have a diverse skill set that spans multiple programming languages, web technologies, databases, and development environments. My projects demonstrate my ability to build robust and scalable software solutions, ranging from hospital management systems to full-stack web applications.
-
-I'm always eager to learn new technologies and improve my skills. I thrive in collaborative environments and enjoy working on innovative projects that solve real-world problems. When I'm not coding, you can find me exploring new tech trends, contributing to open-source projects, or sharing my knowledge with the developer community.
+I'm Kavindu Madhubhashana, a dedicated software developer currently pursuing a B.Sc. in Management and Information Technology at the University of Kelaniya, Sri Lanka. I have experience in various programming languages, web technologies, and databases, and I've built a range of software solutions from management systems to full-stack web applications. I'm passionate about learning new technologies and contributing to impactful projects.
 
 Feel free to connect with me and check out my projects below!
 
